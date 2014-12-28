@@ -1,20 +1,26 @@
 <!DOCTYPE html>
 <style>
-  body {background-color: rgba(255, 255, 35, 0.25); }
-  #header { height: 300px; background-size: 800px; background-position: 50% -250px; background-image: url('images/gitizenlogo.png'); background-repeat: no-repeat; background-color: rgba(255, 255, 30, 0.3); padding-bottom: none; }
-  #header p { color: rgb(100, 110, 255); font-size: 130%; padding-left: 15%; padding-right: 15%; padding-top: 220px; }
+  body {background-color: rgba(255, 255, 35, 0.25); padding: 4%; padding-top: 0px; margin-top: 0px; }
+  h2 { font-size: 65pt; width: 100%; text-align: center; text-decoration: underline; padding: 0px; margin: 0px; color:orange;}
   content { padding-left: 10%; }
-  content div#main { height: 650px; background-image: url('images/gitizen.png'); background-size: 100% 100%; }
-  content div.list { width: 30%; margin-right: 0px; }
-  content div.right-float { float: right;  margin-top: -1em; }
-  a, a:visited {text-decoration: none; color: rgb(255, 50, 120); }
+  content div#main {  }
+  content div ul {  }
+  #main { background-color:rgba(255, 255, 35, 0.5); color:#922; font-weight: bold; border:solid 2px #555; font-size: 32pt; padding: 0.5em; }
+   a, a:visited {text-decoration: none; color: rgb(255, 50, 120); }
   sup { font-size: 60%; text-transform: italic; }
   sup a, sup a:visited { color: inherit; text-decoration: none; }
 </style>
 <body>
+  <h2>The Gititudes</h2>
     <content>
     <div id="main">
-    <img src="gititudes.svg" />
+    <ul>
+      <li>git **never** forgets</li>
+      <li>git remembers only *changes* in files, and not merely files</li>
+      <li>git will only commit changes in the index; not all changes in the working directory</li>
+      <li>git tries **really hard** to protect you from making horrible mistakes</li>
+      <li>git offers the capability to *craft* a history as YOU WANT IT TO BE (<span style="font-size: 80%;">regardless of 'the real' historical activity</span>)</li>
+    </ul>
     </div>
    </content>
 <footer style="text-align:center; padding-top:1em; color:white;">&copy; 2014 Thom Parkin</footer>
