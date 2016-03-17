@@ -10,5 +10,5 @@ Inspired by The Bible and what is referred to as "The Beatitudes", I developed t
   - git tries **really hard** to protect you from making horrible mistakes
   - git offers the capability to *craft* a history as YOU WANT IT TO BE (regardless of 'the real' chronological flow of activity)
 
-<span style="font-size: 80%;">--Thom Parkin&nbsp&nbsp;2014-2016</span>
+<span style="font-size: 80%;">--Thom Parkin&nbsp;&nbsp;2014-2016</span>
 
