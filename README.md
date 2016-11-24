@@ -2,7 +2,7 @@ Gititudes
 =========
 
 While creating ["Mastering Git"](https://www.packtpub.com/application-development/mastering-git-video) for [Packt Publishing](http://www.packtpub.com), I made the realization that git consistently exhibits these behaviors; the **attitudes** git exhibits.
-Inspired by The Bible and what is referred to as "The Beatitudes", I developed this list of [Gititudes](http://www.gititude.com).
+Inspired by The Bible and what is referred to as "The Beatitudes", I developed this list of [Gititudes](http://www.gititudes.com).
 
   - git **never** forgets
   - git remembers only *changes* in files, and not [merely] entire files
